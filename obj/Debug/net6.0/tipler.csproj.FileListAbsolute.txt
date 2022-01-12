@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\console\tipler\bin\Debug\net6.0\tipler.exe
+C:\Users\Administrator\Documents\console\tipler\bin\Debug\net6.0\tipler.deps.json
+C:\Users\Administrator\Documents\console\tipler\bin\Debug\net6.0\tipler.runtimeconfig.json
+C:\Users\Administrator\Documents\console\tipler\bin\Debug\net6.0\tipler.dll
+C:\Users\Administrator\Documents\console\tipler\bin\Debug\net6.0\ref\tipler.dll
+C:\Users\Administrator\Documents\console\tipler\bin\Debug\net6.0\tipler.pdb
+C:\Users\Administrator\Documents\console\tipler\obj\Debug\net6.0\tipler.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\console\tipler\obj\Debug\net6.0\tipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\console\tipler\obj\Debug\net6.0\tipler.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\console\tipler\obj\Debug\net6.0\tipler.AssemblyInfo.cs
+C:\Users\Administrator\Documents\console\tipler\obj\Debug\net6.0\tipler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\console\tipler\obj\Debug\net6.0\tipler.dll
+C:\Users\Administrator\Documents\console\tipler\obj\Debug\net6.0\ref\tipler.dll
+C:\Users\Administrator\Documents\console\tipler\obj\Debug\net6.0\tipler.pdb
+C:\Users\Administrator\Documents\console\tipler\obj\Debug\net6.0\tipler.genruntimeconfig.cache
